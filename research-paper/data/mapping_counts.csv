@@ -1,0 +1,15 @@
+dataset,item,avoid_prefer_mappings
+substitution-tables.md,1. Occupations and roles,31
+substitution-tables.md,"2. Generic-humanity terms (""false generics"")",27
+substitution-tables.md,3. Address and groups,6
+substitution-tables.md,4. Family and relationship terms (CAPE),9
+substitution-tables.md,5. Adjectives with gendered connotations (apply to any gender),10
+substitution-tables.md,6. Semantic non-equivalence pairs (diverged connotations),0
+substitution-tables.md,7. Fixed-order phrases to alternate,0
+substitution-tables.md,8. Terms of address / endearment (workplace & formal contexts),4
+identity-domain skills,age-language,4
+identity-domain skills,class-language,7
+identity-domain skills,disability-language,16
+identity-domain skills,ethnicity-language,25
+identity-domain skills,lgbtqia-language,18
+identity-domain skills,religion-language,8

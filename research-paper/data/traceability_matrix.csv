@@ -1,0 +1,16 @@
+skill_id,EIGE-2019,EIGE-2024,UNW-EN,CAPE-2023,IBEC-2015,INTELLECT-2022
+core.inclusive-language-core,2,2,1,0,0,0
+gender.gender-inclusive-rewriting,1,1,2,1,1,0
+gender.pronoun-strategy,2,1,1,1,0,1
+gender.stereotype-detection,2,1,0,0,1,1
+gender.address-and-titles,2,0,1,1,2,0
+gender.formal-legal-texts,1,0,1,2,0,0
+identity-domains.disability-language,0,1,0,0,0,2
+identity-domains.ethnicity-language,0,1,0,0,0,2
+identity-domains.lgbtqia-language,0,1,1,0,0,2
+identity-domains.age-language,0,1,0,0,0,2
+identity-domains.class-language,0,1,0,0,0,2
+identity-domains.religion-language,0,0,0,0,0,2
+communication.multimodal-inclusion,1,2,0,0,0,0
+communication.ai-content-generation,1,2,0,0,0,0
+workflows.document-audit,2,1,1,0,0,0
