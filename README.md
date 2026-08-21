@@ -1,7 +1,5 @@
 # Inclusive Language Skills Library
 
-**A structured repository of SKILLS that teach LLM agents how to use, detect, and transform inclusive language — built from six authoritative institutional guidelines.**
-
 This repository packages inclusive-language expertise into machine-consumable skill files with explicit guardrails, so that any LLM agent can produce, rewrite, or audit text that respects gender, disability, ethnicity, LGBTQIA+ identity, age, socioeconomic class, and religion — without changing meaning, without over-correcting, and with full traceability back to its institutional sources.
 
 ---
